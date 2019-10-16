@@ -1,0 +1,8 @@
+/home/munna/Desktop/cpp/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/munna/Desktop/cpp/cmake/build/CMakeFiles/edit_cache.dir
+/home/munna/Desktop/cpp/cmake/build/say-hello-dir/CMakeFiles/rebuild_cache.dir
+/home/munna/Desktop/cpp/cmake/build/say-hello-dir/CMakeFiles/say-hello.dir
+/home/munna/Desktop/cpp/cmake/build/say-hello-dir/CMakeFiles/edit_cache.dir
+/home/munna/Desktop/cpp/cmake/build/main-dir/CMakeFiles/rebuild_cache.dir
+/home/munna/Desktop/cpp/cmake/build/main-dir/CMakeFiles/MyProject.dir
+/home/munna/Desktop/cpp/cmake/build/main-dir/CMakeFiles/edit_cache.dir

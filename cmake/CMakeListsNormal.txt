@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.12)
+
+project(MyProject VERSION 1.0.0)
+
+message(STATUS "Project Name: ${PROJECT_NAME}")
+message(STATUS "Project Version: ${PROJECT_VERSION}")
+
+set(my_var "hellow from variable")
+message(STATUS "variable values: ${my_var}")
+

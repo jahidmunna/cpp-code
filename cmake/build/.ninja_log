@@ -1,0 +1,9 @@
+# ninja log v5
+0	990	1571253037719958938	say-hello-dir/CMakeFiles/say-hello.dir/src/hello.cpp.o	5ea6c58eed504400
+1	42	1571253199228277053	say-hello-dir/libsay-hello.a	50876ca2b1427634
+1	800	1571254622677583610	say-hello-dir/CMakeFiles/say-hello.dir/src/hello.cpp.o	b48cd43de64776fe
+801	827	1571254622713583414	say-hello-dir/libsay-hello.a	50876ca2b1427634
+1	897	1571254622781583043	main-dir/CMakeFiles/MyProject.dir/main.cpp.o	fa7fff3f57c51140
+897	1143	1571254623029581692	main-dir/MyProject	da2d2fcc597a5695
+2	748	1571254894093559606	main-dir/CMakeFiles/MyProject.dir/src/main.cpp.o	c30a5879e2a6ce2a
+748	956	1571254894301560374	main-dir/MyProject	b213969d567adcdd

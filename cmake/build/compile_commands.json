@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/munna/Desktop/cpp/cmake/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../say-hello-dir/src  -fvisibility-inlines-hidden -std=c++17 -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -g   -o say-hello-dir/CMakeFiles/say-hello.dir/src/hello.cpp.o -c /home/munna/Desktop/cpp/cmake/say-hello-dir/src/hello.cpp",
+  "file": "/home/munna/Desktop/cpp/cmake/say-hello-dir/src/hello.cpp"
+},
+
+{
+  "directory": "/home/munna/Desktop/cpp/cmake/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I../say-hello-dir/src  -fvisibility-inlines-hidden -std=c++17 -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -g   -o main-dir/CMakeFiles/MyProject.dir/src/main.cpp.o -c /home/munna/Desktop/cpp/cmake/main-dir/src/main.cpp",
+  "file": "/home/munna/Desktop/cpp/cmake/main-dir/src/main.cpp"
+}
+]
